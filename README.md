@@ -16,7 +16,7 @@ Cada repositório documenta um projeto real ou um estudo autoral. Os projetos de
 | Projeto | O que é |
 |---|---|
 | [**case-antifraude-motor-de-regras**](https://github.com/Pedro-AF-Lima/case-antifraude-motor-de-regras) | Desenho as-is/to-be e especificação funcional de motor antifraude para transações bancárias. `BPMN` `Requisitos` `Prevenção à Fraude` |
-| [**case-cambio-pld-pipefy**](https://github.com/Pedro-AF-Lima/case-cambio-pld-pipefy) | Estruturação do processo de Câmbio Pronto em três fluxos integrados, com SLAs e conformidade BACEN/PLD. `Processos` `Compliance` `Pipefy` |
+| [**case-cambio-pipefy**](https://github.com/Pedro-AF-Lima/case-cambio-pld-pipefy) | Estruturação do processo de Câmbio Pronto em três fluxos integrados, com SLAs e conformidade BACEN/PLD. `Processos` `Compliance` `Pipefy` |
 | [**case-credito-pipefy**](https://github.com/Pedro-AF-Lima/case-credito-pipefy) | Portais de entrada, padrões de campo e governança de fluxo para análise de crédito. `Processos` `Governança` `Pipefy` |
 
 ### Dados e Análise
