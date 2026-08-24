@@ -16,4 +16,4 @@ Cada repositório documenta um projeto real ou um estudo autoral. Os projetos de
 | Projeto | O que é | Competências |
 |---|---|---|
 | [**case-antifraude-motor-de-regras**](https://github.com/Pedro-AF-Lima/case-antifraude-motor-de-regras) | Desenho as-is/to-be e especificação funcional de um motor de regras antifraude para transações bancárias (TED, Pix, boleto, agendamento). | `BPMN` `Requisitos` `Prevenção à Fraude` |
-| [**tcc-classificacao-srag**](https://github.com/Pedro-AF-Lima/tcc-classificacao-srag) | Classificação automática de casos de Síndrome Respiratória Aguda Grave com XGBoost sobre a base
+| [**tcc-classificacao-srag**](https://github.com/Pedro-AF-Lima/tcc-classificacao-srag) | Classificação automática de casos de Síndrome Respiratória Aguda Grave com XGBoost sobre a base | `Python` `Machine Learning` `XGBoost` |
