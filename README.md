@@ -13,10 +13,19 @@ Trabalho na fronteira entre negócio e tecnologia: desenho o processo, escrevo o
 
 Cada repositório documenta um projeto real ou um estudo autoral. Os projetos de consultoria estão anonimizados: sem nome de cliente, sem dado real, com todos os artefatos redesenhados por mim.
 
-| Projeto | O que é | Competências |
-|---|---|---|
-| [**case-antifraude-motor-de-regras**](https://github.com/Pedro-AF-Lima/case-antifraude-motor-de-regras) | Desenho as-is/to-be e especificação funcional de um motor de regras antifraude para transações bancárias (TED, Pix, boleto, agendamento). | `BPMN` `Requisitos` `Prevenção à Fraude` |
-| [**tcc-classificacao-srag**](https://github.com/Pedro-AF-Lima/tcc-classificacao-srag) | Classificação automática de casos de Síndrome Respiratória Aguda Grave com XGBoost sobre a base "SIVEP-Gripe" | `Python` `Machine Learning` `XGBoost` |
+| Projeto | O que é |
+|---|---|
+| [**case-antifraude-motor-de-regras**](https://github.com/Pedro-AF-Lima/case-antifraude-motor-de-regras) | Desenho as-is/to-be e especificação funcional de motor antifraude para transações bancárias. `BPMN` `Requisitos` `Prevenção à Fraude` |
+| [**case-cambio-pld-pipefy**](https://github.com/Pedro-AF-Lima/case-cambio-pld-pipefy) | Estruturação do processo de Câmbio Pronto em três fluxos integrados, com SLAs e conformidade BACEN/PLD. `Processos` `Compliance` `Pipefy` |
+| [**case-credito-pipefy**](https://github.com/Pedro-AF-Lima/case-credito-pipefy) | Portais de entrada, padrões de campo e governança de fluxo para análise de crédito. `Processos` `Governança` `Pipefy` |
+
+### Dados e Análise
+
+| Projeto | O que é |
+|---|---|
+| [**tcc-classificacao-srag**](https://github.com/Pedro-AF-Lima/tcc-classificacao-srag) | Classificação multiclasse do agente etiológico em casos de SRAG com XGBoost sobre a base SIVEP-Gripe. `Python` `XGBoost` `Machine Learning` |
+| [**case-data-analytics-auditoria**](https://github.com/Pedro-AF-Lima/case-data-analytics-auditoria) | Journal Entry Testing, Whole Ledger Analytics e CAAT em carteira de auditoria de grande porte. `Análise de Dados` `IDEA` `Auditoria` |
+| [**bi-call-center-dashboard**](https://github.com/Pedro-AF-Lima/bi-call-center-dashboard) | Dashboard de indicadores operacionais de call center — SLA, tempo de atuação e conversão. `Power BI` `Modelagem` `KPIs` |
 
 
 ## 🧠 Competências
