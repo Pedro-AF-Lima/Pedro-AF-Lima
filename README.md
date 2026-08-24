@@ -17,3 +17,42 @@ Cada repositório documenta um projeto real ou um estudo autoral. Os projetos de
 |---|---|---|
 | [**case-antifraude-motor-de-regras**](https://github.com/Pedro-AF-Lima/case-antifraude-motor-de-regras) | Desenho as-is/to-be e especificação funcional de um motor de regras antifraude para transações bancárias (TED, Pix, boleto, agendamento). | `BPMN` `Requisitos` `Prevenção à Fraude` |
 | [**tcc-classificacao-srag**](https://github.com/Pedro-AF-Lima/tcc-classificacao-srag) | Classificação automática de casos de Síndrome Respiratória Aguda Grave com XGBoost sobre a base | `Python` `Machine Learning` `XGBoost` |
+
+
+## 🧠 Competências
+
+### 🔄 Processos e Negócio
+- **Modelagem:** BPMN, mapeamento as-is / to-be, redesenho de fluxos
+- **Requisitos:** levantamento em campo, especificação funcional, documentação de regras de negócio
+- **Governança:** definição de SLAs, controles de validação, gestão de exceções, matriz de responsabilidades por perfil
+- **Melhoria contínua:** diagnóstico operacional, análise de gargalos, estruturação de treinamento
+
+### ⚙️ Automação e Workflow
+- **Pipefy:** arquitetura de fluxos, portais de entrada, automações, AI Agents, modelo de governança
+- **Power Automate**
+- Desenho de integrações entre sistemas e definição de pontos de handoff
+
+### 📊 Dados e BI
+- **Python:** pandas, automação de rotinas de análise
+- **SQL:** consulta e tratamento de bases
+- **Power BI:** modelagem de dados, DAX, dashboards de indicadores operacionais
+- **IDEA:** CAAT, Journal Entry Testing, Whole Ledger Analytics em bases de larga escala
+- **Excel:** análise e estruturação de dados
+
+### 🏦 Domínios
+- Prevenção à fraude em transações (TED, Pix, boleto, agendamento)
+- Câmbio e PLD, com conformidade a normas do BACEN
+- Análise de crédito
+- Auditoria contábil e testes automatizados sobre razão contábil
+
+---
+
+## 🎓 Formação e Certificações
+
+- **Ciência da Computação** — Universidade Presbiteriana Mackenzie (conclusão 12/2026)
+- **Formação Microsoft SQL Server 2022** — Alura (79h)
+- **Formação Power BI** — Alura (72h)
+- **Formação Business Intelligence com Excel** — Alura (54h)
+- **Pipefy Academy** — 8 certificações
+- **Lógica de Programação** — Faculdade Impacta (40h)
+- **Inglês** — Cultura Inglesa, nível B1
